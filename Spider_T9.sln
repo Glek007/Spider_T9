@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spider_T9", "Spider_T9.csproj", "{EB765793-B0DB-4C1C-B0DB-89A2B3FCF76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB765793-B0DB-4C1C-B0DB-89A2B3FCF76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB765793-B0DB-4C1C-B0DB-89A2B3FCF76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB765793-B0DB-4C1C-B0DB-89A2B3FCF76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB765793-B0DB-4C1C-B0DB-89A2B3FCF76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB95591-6457-4DCE-96AC-63A071D3EDAE}
+	EndGlobalSection
+EndGlobal
